@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinyAPI", "DestinyAPI\DestinyAPI.csproj", "{2D64F8DB-C2EA-4D09-A289-8AF503314346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "DestinyAPI.NET-TEST\TestApplication.csproj", "{DD02FD9A-BB93-44A3-A5DC-A7B82AC78AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D64F8DB-C2EA-4D09-A289-8AF503314346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D64F8DB-C2EA-4D09-A289-8AF503314346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D64F8DB-C2EA-4D09-A289-8AF503314346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D64F8DB-C2EA-4D09-A289-8AF503314346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD02FD9A-BB93-44A3-A5DC-A7B82AC78AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD02FD9A-BB93-44A3-A5DC-A7B82AC78AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD02FD9A-BB93-44A3-A5DC-A7B82AC78AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD02FD9A-BB93-44A3-A5DC-A7B82AC78AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
